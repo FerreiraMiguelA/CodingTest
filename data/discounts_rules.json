@@ -1,0 +1,21 @@
+[
+    {
+        "type": "Boughtover",
+        "bought": "1000",
+        "discount":"10"
+    },
+    {
+        "type": "Category",
+        "category": ["2"],
+        "method": "free",
+        "num_products": "5",
+        "num_products_free":  "1"
+    },
+    {
+        "type": "Category",
+        "category": ["1"],
+        "method": "cheapest",
+        "num_products": "2",
+        "discount":"20"
+    }
+]
